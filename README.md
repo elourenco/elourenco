@@ -11,7 +11,7 @@ I'm currently loving learning **Rust lang**.</h3>
 ### 🔭 I’m currently working at **[Midway](https://www.midway.com.br)**
 
 [![Linkedin Badge](https://img.shields.io/badge/-dudulourenco-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudulourenco/)](https://www.linkedin.com/in/dudulourenco/)
-[![Medium Badge](https://img.shields.io/badge/-dudulourenco-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@elourenco/)](https://medium.com/@elourenco)
+[![Medium Badge](https://img.shields.io/badge/-elourenco-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@elourenco/)](https://medium.com/@elourenco)
 
 ### 🌱 I’m currently learning **Rust & Blockchain**
 
