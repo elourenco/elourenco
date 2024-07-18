@@ -5,12 +5,11 @@
 I'm Software Engineer. I love to build mobile applications and my personal projects.
 </h3>
 
-<h3 align = "left">
-My personal project: **[Dona Events](https://dona.events)**
-</h3>
-<h4 align = "left">
-Apps
-</h4>
+
+#### My personal project: **[Dona Events](https://dona.events)**
+
+#### Apps
+
 - [iOS](https://apps.apple.com/br/app/dona/id6473333140?l=en-GB)
 - [Android](https://play.google.com/store/apps/details?id=events.dona.android)
 
