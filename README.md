@@ -1,22 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=elourenco)
 
-<h1 align = "center">I am Eduardo Lourenço</h1>
-<h3 align = "center">
+<h1 align = "left">I am Eduardo Lourenço</h1>
+<h3 align = "left">
 I'm Software Engineer. I love to build mobile applications and my personal projects.
 
 Coffee lover, Games e HQ
 
-I'm currently loving learning **Rust lang**.</h3>
-
-### 🔭 I’m currently working at **[Midway](https://www.midway.com.br)**
+### 🔭 I’m currently working at **[Involves](https://www.involves.com.br)**
 
 [![Linkedin Badge](https://img.shields.io/badge/-dudulourenco-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudulourenco/)](https://www.linkedin.com/in/dudulourenco/)
 [![Medium Badge](https://img.shields.io/badge/-elourenco-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@elourenco/)](https://medium.com/@elourenco)
-
-### 🌱 I’m currently learning **Rust & Blockchain**
-
-![Rust Lang](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
 
 ### Technologies & Tools
 
