@@ -3,6 +3,16 @@
 <h1 align = "left">I am Eduardo Lourenço</h1>
 <h3 align = "left">
 I'm Software Engineer. I love to build mobile applications and my personal projects.
+</h3>
+
+<h3 align = "left">
+My personal project: **[Dona Events](https://dona.events)**
+</h3>
+<h4 align = "left">
+Apps
+</h4>
+- [iOS](https://apps.apple.com/br/app/dona/id6473333140?l=en-GB)
+- [Android](https://play.google.com/store/apps/details?id=events.dona.android)
 
 Coffee lover, Games e HQ
 
@@ -29,9 +39,3 @@ Coffee lover, Games e HQ
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elourenco&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elourenco&hide=TeX&theme=dark)
