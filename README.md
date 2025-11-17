@@ -26,8 +26,6 @@
 
 I build **end-to-end digital products**: mobile apps, backends, distributed systems and cloud architectures, always focused on **performance, UX, scalability and real-world impact**.  [oai_citation:0‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
-
 ## 🚀 About Me  
 
 I’m a Full Stack Software Engineer with 10+ years in tech, specializing in:
@@ -39,8 +37,6 @@ I’m a Full Stack Software Engineer with 10+ years in tech, specializing in:
 - **Applied AI & Image Recognition** embedded in mobile products  
 
 I like to transform ideas into **robust, elegant and maintainable systems** that survive scale, time and changing requirements.
-
----
 
 ## 🧩 Technical Pillars  
 
@@ -63,8 +59,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - Performance tuning on device (memory, CPU, frame time)  
 - Integrating AI into real products, not just demos  
 
----
-
 ## 🏢 Experience Snapshot  
 
 ### Involves · Senior React Native Developer  
@@ -73,7 +67,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - Clean Architecture, modularization and performance-sensitive UI  
 - Close collaboration with design, QA and backend to ship reliable features  [oai_citation:1‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
 
 ### Midway · Full Stack Software Engineer  
 **React Native · Node.js · GraphQL · Azure DevOps**  
@@ -81,7 +74,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - Backend services with Node.js + GraphQL  
 - API integrations, reliability and performance tuning across the platform  [oai_citation:2‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
 
 ### VAI · Full Stack Software Engineer  
 **React Native · Ruby on Rails · AWS (EC2, DynamoDB, MySQL, Redis)**  
@@ -89,7 +81,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - Solution architecture, CI/CD, infra and monitoring on AWS  
 - Strong focus on scalability, uptime and user experience  [oai_citation:3‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
 
 ### Global Hitss & Previous Roles  
 **iOS & Android Native · Swift · Kotlin · Java · Ruby on Rails · Node.js**  
@@ -97,7 +88,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - REST/SOAP APIs, AWS architecture, CI/CD with AppCenter/Fastlane  
 - 360º view: mobile, backend, infra and business-critical systems  [oai_citation:4‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
 
 ## 🛠 Tech Toolbox  
 
@@ -114,7 +104,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 **AI & Data**  
 `ONNX Runtime` • `TensorFlow` • `PyTorch`  
 
----
 
 ## 📚 Certifications  
 
@@ -123,7 +112,6 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - React Developer Nanodegree (Udacity)  
 - Master the Swift Programming Language  [oai_citation:5‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
 
 ## 🚀 Featured Projects  
 
@@ -138,7 +126,6 @@ App completo para gestão de eventos e operações em campo, com:
 
 🔗 *Repository*: private (product in active development)
 
----
 
 ### 🤖 Image Recognition Module (Involves)  
 **React Native • ONNX Runtime • AI pipelines • Native integration**  
@@ -148,8 +135,6 @@ App completo para gestão de eventos e operações em campo, com:
 
 🔗 *Repository*: private  
 
----
-
 ### 📱 VaiCar App  
 **React Native • Ruby on Rails • AWS (EC2, DynamoDB, Redis, MySQL)**  
 - App from scratch to production  
@@ -158,8 +143,6 @@ App completo para gestão de eventos e operações em campo, com:
 
 🔗 *Repository*: private  
 
----
-
 ### 🧬 Swift / SwiftUI Labs  
 **SwiftUI • Concurrency • Combine • Metal (experiments)**  
 - Componentes UI nativos  
@@ -167,7 +150,6 @@ App completo para gestão de eventos e operações em campo, com:
 
 🔗 `https://github.com/elourenco/swift-labs` *(exemplo – ajuste para o repo real)*  
 
----
 
 ### 🧠 AI Playground  
 **ONNX • TensorFlow • CVPixelBuffer pipelines**  
@@ -176,14 +158,12 @@ App completo para gestão de eventos e operações em campo, com:
 
 🔗 `https://github.com/elourenco/ai-playground` *(exemplo – ajuste para o repo real)*  
 
----
 
 ## 🌍 Languages  
 
 - 🇧🇷 Portuguese · Native  
 - 🇺🇸 English · Professional Working Proficiency  [oai_citation:7‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
----
 
 ## 🌎 Connect with Me  
 
@@ -191,7 +171,6 @@ App completo para gestão de eventos e operações em campo, com:
 - ✉️ Email: [elourenco@outlook.com](mailto:elourenco@outlook.com)  
 - 📍 Florianópolis, SC · Brazil  
 
----
 
 ## 🧠 Architect Insight  
 
@@ -203,4 +182,3 @@ Good engineering, for me, is about **clarity + consistency + sustainable speed**
 
 If you’re looking for someone who can **design, build and ship** from backend to mobile, connect AI into real products and keep the system healthy in production, that’s where I operate best.
 
----
