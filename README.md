@@ -48,7 +48,8 @@ I like to transform ideas into **robust, elegant and maintainable systems** that
 - Data sync, caching strategies and network-resilient UX  
 
 ### 🖥 Backend & Distributed Systems  
-- Bun & Node.js with TypeScript  
+- Bun & Node.js with TypeScript
+- Ruby on Rails (APIs, MVC, ActiveRecord, Turbo/Hotwire)  
 - REST & GraphQL APIs  
 - PostgreSQL, MySQL, MongoDB, DynamoDB, Redis  
 - Event-driven patterns, queues and background jobs  
