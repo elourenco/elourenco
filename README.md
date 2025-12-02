@@ -22,7 +22,7 @@
 # 👋 Hi, I’m Eduardo Lourenço  
 
 ### Full Stack Software Engineer  
-**React Native • TypeScript • Swift/SwiftUI • Bun • Node • AWS/GCP/Azure**
+**React Native • TypeScript • Swift/SwiftUI • Ruby on Rails • Bun • Node • AWS/GCP/Azure**
 
 I build **end-to-end digital products**: mobile apps, backends, distributed systems and cloud architectures, always focused on **performance, UX, scalability and real-world impact**.  [oai_citation:0‡CV-Eduardo-Lourenco-Linkdedin-en.pdf](sediment://file_00000000f908720ebb1f63e5339ea1a6)  
 
